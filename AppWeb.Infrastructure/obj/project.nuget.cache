@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tiGCFaffct4=",
+  "success": true,
+  "projectFilePath": "/Users/gulsenaozseven/Desktop/projects/AppointmentWeb/AppWeb.Infrastructure/AppWeb.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/gulsenaozseven/.nuget/packages/microsoft.entityframeworkcore.tools/10.0.0/microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
