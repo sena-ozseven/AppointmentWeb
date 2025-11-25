@@ -15,7 +15,5 @@ public class Appointment
     public int BranchId {get;set;} //foreign key
     public Branch Branch {get;set;} = default!; //navigation property
     // default! --> nullability warning suppressor (nullable olamaz demek için)
-    
-
 
 }
